@@ -8,3 +8,6 @@ seaborn
 scipy
 nltk
 tensorflow
+gensim
+spacy
+tqdm
